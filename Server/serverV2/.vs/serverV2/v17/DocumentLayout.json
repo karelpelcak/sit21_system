@@ -1,30 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Karel Pelcak\\Desktop\\Programming\\Sit21_sys\\Backend\\v2\\serverV2\\",
+  "WorkspaceRootPath": "C:\\Users\\Karel Pelcak\\Desktop\\Programming\\sit21_system\\Server\\serverV2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{674D47EC-514B-4E22-A127-874A6740EC7D}|serverV2\\serverV2.csproj|c:\\users\\karel pelcak\\desktop\\programming\\sit21_sys\\backend\\v2\\serverv2\\serverv2\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{674D47EC-514B-4E22-A127-874A6740EC7D}|serverV2\\serverV2.csproj|solutionrelative:serverv2\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{674D47EC-514B-4E22-A127-874A6740EC7D}|serverV2\\serverV2.csproj|c:\\users\\karel pelcak\\desktop\\programming\\sit21_system\\server\\serverv2\\serverv2\\model\\taskuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674D47EC-514B-4E22-A127-874A6740EC7D}|serverV2\\serverV2.csproj|solutionrelative:serverv2\\model\\taskuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{674D47EC-514B-4E22-A127-874A6740EC7D}|serverV2\\serverV2.csproj|c:\\users\\karel pelcak\\desktop\\programming\\sit21_sys\\backend\\v2\\serverv2\\serverv2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{674D47EC-514B-4E22-A127-874A6740EC7D}|serverV2\\serverV2.csproj|solutionrelative:serverv2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{674D47EC-514B-4E22-A127-874A6740EC7D}|serverV2\\serverV2.csproj|c:\\users\\karel pelcak\\desktop\\programming\\sit21_sys\\backend\\v2\\serverv2\\serverv2\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{674D47EC-514B-4E22-A127-874A6740EC7D}|serverV2\\serverV2.csproj|solutionrelative:serverv2\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{674D47EC-514B-4E22-A127-874A6740EC7D}|serverV2\\serverV2.csproj|c:\\users\\karel pelcak\\desktop\\programming\\sit21_sys\\backend\\v2\\serverv2\\serverv2\\models\\usertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{674D47EC-514B-4E22-A127-874A6740EC7D}|serverV2\\serverV2.csproj|solutionrelative:serverv2\\models\\usertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{674D47EC-514B-4E22-A127-874A6740EC7D}|serverV2\\serverV2.csproj|c:\\users\\karel pelcak\\desktop\\programming\\sit21_sys\\backend\\v2\\serverv2\\serverv2\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{674D47EC-514B-4E22-A127-874A6740EC7D}|serverV2\\serverV2.csproj|solutionrelative:serverv2\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{674D47EC-514B-4E22-A127-874A6740EC7D}|serverV2\\serverV2.csproj|c:\\users\\karel pelcak\\desktop\\programming\\sit21_sys\\backend\\v2\\serverv2\\serverv2\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{674D47EC-514B-4E22-A127-874A6740EC7D}|serverV2\\serverV2.csproj|solutionrelative:serverv2\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{674D47EC-514B-4E22-A127-874A6740EC7D}|serverV2\\serverV2.csproj|c:\\users\\karel pelcak\\desktop\\programming\\sit21_system\\server\\serverv2\\serverv2\\model\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674D47EC-514B-4E22-A127-874A6740EC7D}|serverV2\\serverV2.csproj|solutionrelative:serverv2\\model\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 311,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DatabaseContext.cs",
-              "DocumentMoniker": "C:\\Users\\Karel Pelcak\\Desktop\\Programming\\Sit21_sys\\Backend\\v2\\serverV2\\serverV2\\Data\\DatabaseContext.cs",
-              "RelativeDocumentMoniker": "serverV2\\Data\\DatabaseContext.cs",
-              "ToolTip": "C:\\Users\\Karel Pelcak\\Desktop\\Programming\\Sit21_sys\\Backend\\v2\\serverV2\\serverV2\\Data\\DatabaseContext.cs",
-              "RelativeToolTip": "serverV2\\Data\\DatabaseContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "TaskUser.cs",
+              "DocumentMoniker": "C:\\Users\\Karel Pelcak\\Desktop\\Programming\\sit21_system\\Server\\serverV2\\serverV2\\Model\\TaskUser.cs",
+              "RelativeDocumentMoniker": "serverV2\\Model\\TaskUser.cs",
+              "ToolTip": "C:\\Users\\Karel Pelcak\\Desktop\\Programming\\sit21_system\\Server\\serverV2\\serverV2\\Model\\TaskUser.cs",
+              "RelativeToolTip": "serverV2\\Model\\TaskUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T20:07:28.662Z",
+              "WhenOpened": "2024-06-10T16:21:06.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Karel Pelcak\\Desktop\\Programming\\Sit21_sys\\Backend\\v2\\serverV2\\serverV2\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "serverV2\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Karel Pelcak\\Desktop\\Programming\\Sit21_sys\\Backend\\v2\\serverV2\\serverV2\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "serverV2\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T20:03:51.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TaskController.cs",
-              "DocumentMoniker": "C:\\Users\\Karel Pelcak\\Desktop\\Programming\\Sit21_sys\\Backend\\v2\\serverV2\\serverV2\\Controllers\\TaskController.cs",
-              "RelativeDocumentMoniker": "serverV2\\Controllers\\TaskController.cs",
-              "ToolTip": "C:\\Users\\Karel Pelcak\\Desktop\\Programming\\Sit21_sys\\Backend\\v2\\serverV2\\serverV2\\Controllers\\TaskController.cs",
-              "RelativeToolTip": "serverV2\\Controllers\\TaskController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T20:01:53.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\Karel Pelcak\\Desktop\\Programming\\Sit21_sys\\Backend\\v2\\serverV2\\serverV2\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "serverV2\\Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\Karel Pelcak\\Desktop\\Programming\\Sit21_sys\\Backend\\v2\\serverV2\\serverV2\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "serverV2\\Models\\ApplicationUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T20:05:08.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserTask.cs",
-              "DocumentMoniker": "C:\\Users\\Karel Pelcak\\Desktop\\Programming\\Sit21_sys\\Backend\\v2\\serverV2\\serverV2\\Models\\UserTask.cs",
-              "RelativeDocumentMoniker": "serverV2\\Models\\UserTask.cs",
-              "ToolTip": "C:\\Users\\Karel Pelcak\\Desktop\\Programming\\Sit21_sys\\Backend\\v2\\serverV2\\serverV2\\Models\\UserTask.cs",
-              "RelativeToolTip": "serverV2\\Models\\UserTask.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T20:02:40.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Task.cs",
-              "DocumentMoniker": "C:\\Users\\Karel Pelcak\\Desktop\\Programming\\Sit21_sys\\Backend\\v2\\serverV2\\serverV2\\Models\\Task.cs",
-              "RelativeDocumentMoniker": "serverV2\\Models\\Task.cs",
-              "ToolTip": "C:\\Users\\Karel Pelcak\\Desktop\\Programming\\Sit21_sys\\Backend\\v2\\serverV2\\serverV2\\Models\\Task.cs",
-              "RelativeToolTip": "serverV2\\Models\\Task.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAsAAAA",
+              "DocumentMoniker": "C:\\Users\\Karel Pelcak\\Desktop\\Programming\\sit21_system\\Server\\serverV2\\serverV2\\Model\\Task.cs",
+              "RelativeDocumentMoniker": "serverV2\\Model\\Task.cs",
+              "ToolTip": "C:\\Users\\Karel Pelcak\\Desktop\\Programming\\sit21_system\\Server\\serverV2\\serverV2\\Model\\Task.cs",
+              "RelativeToolTip": "serverV2\\Model\\Task.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAmwDAAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T19:55:02.044Z",
+              "WhenOpened": "2024-06-10T15:05:51.289Z",
               "EditorCaption": ""
             }
           ]

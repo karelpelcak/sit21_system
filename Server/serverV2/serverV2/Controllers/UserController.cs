@@ -25,7 +25,7 @@ namespace serverV2.Controllers
         {
             try
             {
-                var users = _userManager.Users.Select(u => new { u.UserName, u.Id, u.Email }).ToList();
+                var users = await _userManager.Users.Select(u => new { u.UserName, u.Id, u.Email }).ToListAsync();
                 return Ok(users);
             }
             catch (Exception ex)
