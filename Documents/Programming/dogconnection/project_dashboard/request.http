@@ -1,0 +1,6 @@
+POST http://localhost:3000/api/auth/login
+
+{
+    "Username": "Karel Pelcak",
+    "Password": "Kaja172004"
+}
